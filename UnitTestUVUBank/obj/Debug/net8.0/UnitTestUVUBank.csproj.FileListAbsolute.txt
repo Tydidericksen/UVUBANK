@@ -1,0 +1,416 @@
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/CoverletSourceRootsMapping_UnitTestUVUBank
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/Lab3.deps.json
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/Lab3.runtimeconfig.json
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/Lab3
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/UnitTestUVUBank.deps.json
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/UnitTestUVUBank.runtimeconfig.json
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/UnitTestUVUBank.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/UnitTestUVUBank.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/testhost.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/xunit.abstractions.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/xunit.assert.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/xunit.core.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/xunit.execution.dotnet.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/bin/Debug/net8.0/Lab3.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.csproj.AssemblyReference.cache
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.AssemblyInfoInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.AssemblyInfo.cs
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.csproj.CoreCompileInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.csproj.CopyComplete
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/obj/Debug/net8.0/refint/UnitTestUVUBank.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.genruntimeconfig.cache
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/UnitTestUVUBank/obj/Debug/net8.0/ref/UnitTestUVUBank.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/CoverletSourceRootsMapping_UnitTestUVUBank
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/Lab3.deps.json
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/Lab3.runtimeconfig.json
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/Lab3
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/UnitTestUVUBank.deps.json
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/UnitTestUVUBank.runtimeconfig.json
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/UnitTestUVUBank.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/UnitTestUVUBank.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/testhost.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/xunit.abstractions.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/xunit.assert.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/xunit.core.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/xunit.execution.dotnet.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/bin/Debug/net8.0/Lab3.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.csproj.AssemblyReference.cache
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.AssemblyInfoInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.AssemblyInfo.cs
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.csproj.CoreCompileInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.csproj.CopyComplete
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/obj/Debug/net8.0/refint/UnitTestUVUBank.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.genruntimeconfig.cache
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/UnitTestUVUBank/obj/Debug/net8.0/ref/UnitTestUVUBank.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/CoverletSourceRootsMapping_UnitTestUVUBank
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/Lab3.deps.json
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/Lab3.runtimeconfig.json
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/Lab3
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/UnitTestUVUBank.deps.json
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/UnitTestUVUBank.runtimeconfig.json
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/UnitTestUVUBank.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/UnitTestUVUBank.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/testhost.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/xunit.abstractions.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/xunit.assert.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/xunit.core.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/xunit.execution.dotnet.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/bin/Debug/net8.0/Lab3.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.csproj.AssemblyReference.cache
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.AssemblyInfoInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.AssemblyInfo.cs
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.csproj.CoreCompileInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.csproj.CopyComplete
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/obj/Debug/net8.0/refint/UnitTestUVUBank.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.genruntimeconfig.cache
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/UnitTestUVUBank/obj/Debug/net8.0/ref/UnitTestUVUBank.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/CoverletSourceRootsMapping_UnitTestUVUBank
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/Lab3.deps.json
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/Lab3.runtimeconfig.json
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/Lab3
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/UnitTestUVUBank.deps.json
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/UnitTestUVUBank.runtimeconfig.json
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/UnitTestUVUBank.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/UnitTestUVUBank.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/testhost.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/xunit.abstractions.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/xunit.assert.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/xunit.core.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/xunit.execution.dotnet.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/bin/Debug/net8.0/Lab3.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.csproj.AssemblyReference.cache
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.AssemblyInfoInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.AssemblyInfo.cs
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.csproj.CoreCompileInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.csproj.CopyComplete
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/obj/Debug/net8.0/refint/UnitTestUVUBank.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/obj/Debug/net8.0/UnitTestUVUBank.genruntimeconfig.cache
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/obj/Debug/net8.0/ref/UnitTestUVUBank.dll

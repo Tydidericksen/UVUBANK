@@ -1,0 +1,229 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UVUBankUI/UVUBankUI.csproj": {}
+  },
+  "projects": {
+    "/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/Lab3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/Lab3.csproj",
+        "projectName": "Lab3",
+        "projectPath": "/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/Lab3.csproj",
+        "packagesPath": "/Users/tydidericksen/.nuget/packages/",
+        "outputPath": "/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tydidericksen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/tydidericksen/.vscode-dotnet-sdk/.dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/tydidericksen/.vscode-dotnet-sdk/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/UnitTestUVUBank.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/UnitTestUVUBank.csproj",
+        "projectName": "UnitTestUVUBank",
+        "projectPath": "/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/UnitTestUVUBank.csproj",
+        "packagesPath": "/Users/tydidericksen/.nuget/packages/",
+        "outputPath": "/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tydidericksen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/tydidericksen/.vscode-dotnet-sdk/.dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/Lab3.csproj": {
+                "projectPath": "/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/Lab3.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/tydidericksen/.vscode-dotnet-sdk/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UVUBankUI/UVUBankUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UVUBankUI/UVUBankUI.csproj",
+        "projectName": "UVUBankUI",
+        "projectPath": "/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UVUBankUI/UVUBankUI.csproj",
+        "packagesPath": "/Users/tydidericksen/.nuget/packages/",
+        "outputPath": "/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UVUBankUI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tydidericksen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/tydidericksen/.vscode-dotnet-sdk/.dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/Lab3.csproj": {
+                "projectPath": "/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/Lab3.csproj"
+              },
+              "/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/UnitTestUVUBank.csproj": {
+                "projectPath": "/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/UnitTestUVUBank/UnitTestUVUBank.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Avalonia": {
+              "target": "Package",
+              "version": "[11.0.10, )"
+            },
+            "Avalonia.Desktop": {
+              "target": "Package",
+              "version": "[11.0.10, )"
+            },
+            "Avalonia.Diagnostics": {
+              "target": "Package",
+              "version": "[11.0.10, )"
+            },
+            "Avalonia.Fonts.Inter": {
+              "target": "Package",
+              "version": "[11.0.10, )"
+            },
+            "Avalonia.ReactiveUI": {
+              "target": "Package",
+              "version": "[11.0.10, )"
+            },
+            "Avalonia.Themes.Fluent": {
+              "target": "Package",
+              "version": "[11.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/tydidericksen/.vscode-dotnet-sdk/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

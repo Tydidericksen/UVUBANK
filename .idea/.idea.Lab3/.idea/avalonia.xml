@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="UVUBankAvaloniaGui/App.axaml" value="UVUBankAvaloniaGui/UVUBankAvaloniaGui.csproj" />
+        <entry key="UVUBankUI/App.axaml" value="UVUBankUI/UVUBankUI.csproj" />
+        <entry key="UVUBankUI/Views/AccountCreation.axaml" value="UVUBankUI/UVUBankUI.csproj" />
+        <entry key="UVUBankUI/Views/AccountDetails.axaml" value="UVUBankUI/UVUBankUI.csproj" />
+        <entry key="UVUBankUI/Views/Accounts.axaml" value="UVUBankUI/UVUBankUI.csproj" />
+        <entry key="UVUBankUI/Views/DepositWithdraw.axaml" value="UVUBankUI/UVUBankUI.csproj" />
+        <entry key="UVUBankUI/Views/FindAccount.axaml" value="UVUBankUI/UVUBankUI.csproj" />
+        <entry key="UVUBankUI/Views/MainWindow.axaml" value="UVUBankUI/UVUBankUI.csproj" />
+        <entry key="UVUBankUI/Views/MyDialogWindow.axaml" value="UVUBankUI/UVUBankUI.csproj" />
+        <entry key="UVUBankUI/Views/WithdrawDeposit.axaml" value="UVUBankUI/UVUBankUI.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,112 @@
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V1.0/Lab3/bin/Debug/net8.0/Lab3
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V1.0/Lab3/bin/Debug/net8.0/Lab3.deps.json
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V1.0/Lab3/bin/Debug/net8.0/Lab3.runtimeconfig.json
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V1.0/Lab3/bin/Debug/net8.0/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V1.0/Lab3/bin/Debug/net8.0/Lab3.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V1.0/Lab3/obj/Debug/net8.0/Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V1.0/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfoInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V1.0/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfo.cs
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V1.0/Lab3/obj/Debug/net8.0/Lab3.csproj.CoreCompileInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V1.0/Lab3/obj/Debug/net8.0/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V1.0/Lab3/obj/Debug/net8.0/refint/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V1.0/Lab3/obj/Debug/net8.0/Lab3.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V1.0/Lab3/obj/Debug/net8.0/Lab3.genruntimeconfig.cache
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V1.0/Lab3/obj/Debug/net8.0/ref/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V2.0/Lab3/bin/Debug/net8.0/Lab3
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V2.0/Lab3/bin/Debug/net8.0/Lab3.deps.json
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V2.0/Lab3/bin/Debug/net8.0/Lab3.runtimeconfig.json
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V2.0/Lab3/bin/Debug/net8.0/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V2.0/Lab3/bin/Debug/net8.0/Lab3.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V2.0/Lab3/obj/Debug/net8.0/Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V2.0/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfoInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V2.0/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfo.cs
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V2.0/Lab3/obj/Debug/net8.0/Lab3.csproj.CoreCompileInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V2.0/Lab3/obj/Debug/net8.0/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V2.0/Lab3/obj/Debug/net8.0/refint/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V2.0/Lab3/obj/Debug/net8.0/Lab3.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V2.0/Lab3/obj/Debug/net8.0/Lab3.genruntimeconfig.cache
+/Users/tydidericksen/Desktop/CS3260_Lab03_TD_V2.0/Lab3/obj/Debug/net8.0/ref/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V1.0/Lab3/bin/Debug/net8.0/Lab3
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V1.0/Lab3/bin/Debug/net8.0/Lab3.deps.json
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V1.0/Lab3/bin/Debug/net8.0/Lab3.runtimeconfig.json
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V1.0/Lab3/bin/Debug/net8.0/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V1.0/Lab3/bin/Debug/net8.0/Lab3.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V1.0/Lab3/obj/Debug/net8.0/Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V1.0/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfoInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V1.0/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfo.cs
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V1.0/Lab3/obj/Debug/net8.0/Lab3.csproj.CoreCompileInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V1.0/Lab3/obj/Debug/net8.0/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V1.0/Lab3/obj/Debug/net8.0/refint/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V1.0/Lab3/obj/Debug/net8.0/Lab3.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V1.0/Lab3/obj/Debug/net8.0/Lab3.genruntimeconfig.cache
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V1.0/Lab3/obj/Debug/net8.0/ref/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V2.0/Lab3/bin/Debug/net8.0/Lab3
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V2.0/Lab3/bin/Debug/net8.0/Lab3.deps.json
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V2.0/Lab3/bin/Debug/net8.0/Lab3.runtimeconfig.json
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V2.0/Lab3/bin/Debug/net8.0/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V2.0/Lab3/bin/Debug/net8.0/Lab3.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V2.0/Lab3/obj/Debug/net8.0/Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V2.0/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfoInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V2.0/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfo.cs
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V2.0/Lab3/obj/Debug/net8.0/Lab3.csproj.CoreCompileInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V2.0/Lab3/obj/Debug/net8.0/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V2.0/Lab3/obj/Debug/net8.0/refint/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V2.0/Lab3/obj/Debug/net8.0/Lab3.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V2.0/Lab3/obj/Debug/net8.0/Lab3.genruntimeconfig.cache
+/Users/tydidericksen/Desktop/CS3260_Lab04_TD_V2.0/Lab3/obj/Debug/net8.0/ref/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/Lab3/bin/Debug/net8.0/Lab3
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/Lab3/bin/Debug/net8.0/Lab3.deps.json
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/Lab3/bin/Debug/net8.0/Lab3.runtimeconfig.json
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/Lab3/bin/Debug/net8.0/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/Lab3/bin/Debug/net8.0/Lab3.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/Lab3/obj/Debug/net8.0/Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfoInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfo.cs
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/Lab3/obj/Debug/net8.0/Lab3.csproj.CoreCompileInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/Lab3/obj/Debug/net8.0/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/Lab3/obj/Debug/net8.0/refint/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/Lab3/obj/Debug/net8.0/Lab3.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/Lab3/obj/Debug/net8.0/Lab3.genruntimeconfig.cache
+/Users/tydidericksen/Desktop/CS3260_Lab05_TD_V2.0/Lab3/obj/Debug/net8.0/ref/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/Lab3/bin/Debug/net8.0/Lab3
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/Lab3/bin/Debug/net8.0/Lab3.deps.json
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/Lab3/bin/Debug/net8.0/Lab3.runtimeconfig.json
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/Lab3/bin/Debug/net8.0/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/Lab3/bin/Debug/net8.0/Lab3.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/Lab3/obj/Debug/net8.0/Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfoInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfo.cs
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/Lab3/obj/Debug/net8.0/Lab3.csproj.CoreCompileInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/Lab3/obj/Debug/net8.0/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/Lab3/obj/Debug/net8.0/refint/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/Lab3/obj/Debug/net8.0/Lab3.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/Lab3/obj/Debug/net8.0/Lab3.genruntimeconfig.cache
+/Users/tydidericksen/Desktop/CS3260_Lab07_TD_V1.0/Lab3/obj/Debug/net8.0/ref/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/Lab3/bin/Debug/net8.0/Lab3
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/Lab3/bin/Debug/net8.0/Lab3.deps.json
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/Lab3/bin/Debug/net8.0/Lab3.runtimeconfig.json
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/Lab3/bin/Debug/net8.0/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/Lab3/bin/Debug/net8.0/Lab3.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/Lab3/obj/Debug/net8.0/Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfoInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfo.cs
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/Lab3/obj/Debug/net8.0/Lab3.csproj.CoreCompileInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/Lab3/obj/Debug/net8.0/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/Lab3/obj/Debug/net8.0/refint/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/Lab3/obj/Debug/net8.0/Lab3.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/Lab3/obj/Debug/net8.0/Lab3.genruntimeconfig.cache
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V2.0 2/Lab3/obj/Debug/net8.0/ref/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/bin/Debug/net8.0/Lab3
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/bin/Debug/net8.0/Lab3.deps.json
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/bin/Debug/net8.0/Lab3.runtimeconfig.json
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/bin/Debug/net8.0/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/bin/Debug/net8.0/Lab3.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/obj/Debug/net8.0/Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfoInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfo.cs
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/obj/Debug/net8.0/Lab3.csproj.CoreCompileInputs.cache
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/obj/Debug/net8.0/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/obj/Debug/net8.0/refint/Lab3.dll
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/obj/Debug/net8.0/Lab3.pdb
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/obj/Debug/net8.0/Lab3.genruntimeconfig.cache
+/Users/tydidericksen/Desktop/CS3260_Lab08_TD_V3.0/Lab3/obj/Debug/net8.0/ref/Lab3.dll

@@ -1,0 +1,35 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:UVUBankUI.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="UVUBankUI.Views.MainWindow"
+        x:DataType="vm:MainWindowViewModel"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="UVUBankUI"
+        >
+    
+        <Grid>
+            <Image Source="/Assets/uvubankbackground.jpeg" Stretch="Fill">
+                <Image.Effect>
+                    <BlurEffect Radius="20"/>
+                </Image.Effect>
+            </Image>            
+            <Border Background="Green" Width="250" Height="250" CornerRadius="10"/>
+            <Grid >
+                <!-- Title -->
+                <Border Background="Green" Margin="10" Padding="10" VerticalAlignment="Top">
+                    <TextBlock Text="UVUBank" FontSize="32" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center"/>
+                </Border>
+
+                    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,50">
+                            <TextBlock Text="Welcome!" FontSize="28" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="30"/>
+                            <TextBlock Text="Manage Your Finances" FontSize="12" Foreground="White" HorizontalAlignment="Center" Margin="5"/>
+                        <Button Content="Let's Get Started" FontSize="20" FontWeight="Bold" Click="CreateAccount_Click" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Width="200" Height="50" Margin="0, 5" BorderThickness="0">
+                        </Button>
+                    </StackPanel>
+            </Grid>
+        </Grid>
+</Window>
+
